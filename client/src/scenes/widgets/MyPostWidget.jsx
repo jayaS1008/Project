@@ -169,3 +169,5 @@ import {
       </WidgetWrapper>
     );
   };
+
+  export default MyPostWidget;
